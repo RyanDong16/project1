@@ -33,7 +33,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='https://www.loom.com/share/f6843b5834b842488f04804c42345e99?sid=d256afb3-2ac5-4cab-8d23-d2d90e5a2318' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://www.loom.com/share/f6843b5834b842488f04804c42345e99?sid=a37b799b-5122-4ad7-b91e-b54c10b2fb2f.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  Loom
