@@ -35,16 +35,15 @@ Here's a walkthrough of implemented required features:
 
 <div>
     <a href="https://www.loom.com/share/f6843b5834b842488f04804c42345e99">
+      <p>WEB102 Project Walkthrough - Watch Video</p>
     </a>
     <a href="https://www.loom.com/share/f6843b5834b842488f04804c42345e99">
       <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/f6843b5834b842488f04804c42345e99-c265f9663bd2223d-full-play.gif">
     </a>
   </div>
-
-<img width='' alt='Video Walkthrough' />
-
+  
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with ...  Loom
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
